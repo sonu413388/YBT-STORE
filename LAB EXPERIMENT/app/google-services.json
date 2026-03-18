@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395465866902",
+    "project_id": "ybt-store-d0aa0",
+    "storage_bucket": "ybt-store-d0aa0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395465866902:android:87f4b31a8e5f048123ccb7",
+        "android_client_info": {
+          "package_name": "com.example.ybt_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395465866902-jhbtecnalf9752u8icdp3ldetjto0t9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6VOTnxZyubzLyrWpuUag5mYiZAmJZho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395465866902-jhbtecnalf9752u8icdp3ldetjto0t9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
