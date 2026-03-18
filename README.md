@@ -45,7 +45,7 @@ items, add them to a cart, and view their profile.
 ## 👨‍💻 Author
 
 Sonu Kumar\
-B.Tech CSE (AI/ML)
+B.Tech CSE 
 
 ## 📜 License
 
